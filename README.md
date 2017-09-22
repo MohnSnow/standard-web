@@ -1,7 +1,10 @@
-## 将自己学过的东西放到这个完整的项目里面
+## 教大家快速搭建一个后台网站
 
-#### Spring
-#### SpringMVC
-#### Angular JS
-#### MyBatis
-1. 2017.09.20 重温MyBatis
+### 用到的技术
+尽量降低学习成本
+1. Java
+2. Spring
+3. Spring-MVC
+4. MyBatis
+
+
